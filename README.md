@@ -4,7 +4,8 @@
 * [React生态清单](./React_List.md)
 * [React UI Frame](./reactuiframe.md)
 * React Animation
-* Redux
+* Redux 概要
+* Redux Demo
 * webpack 配置优化
 * 调试
 * 测试
