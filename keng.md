@@ -2,4 +2,8 @@
 
 ## Incoming
 * source mapping
-* Immutable.js
+* flow
+* graphQL
+* code style
+* server render
+* isomorphic render
