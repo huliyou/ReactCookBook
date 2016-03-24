@@ -18,5 +18,5 @@ nvm install 4.4.0
 国内npm速度过慢，请使用[cnpm](http://npm.taobao.org/)
 
 ### 调试插件
-* react devTools
-* redux devTools
+* [react devTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+* [redux devTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
