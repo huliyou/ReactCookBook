@@ -3,6 +3,9 @@
     "pluginsConfig": {
         "disqus": {
             "shortName": "huliyou"
-        }
+        },
+        "comment": {
+            "highlightCommented": true,
+        },
     }
 }
