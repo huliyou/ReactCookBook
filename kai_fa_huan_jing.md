@@ -16,3 +16,7 @@ nvm install 4.4.0
 使用npm管理依赖
 
 国内npm速度过慢，请使用[cnpm](http://npm.taobao.org/)
+
+### 调试插件
+* react devTools
+* redux devTools
