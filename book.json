@@ -1,11 +1,8 @@
 {
-    "plugins": ["disqus", "comment"],
+    "plugins": ["disqus"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "huliyou"
-        },
-        "comment": {
-            "highlightCommented": true,
-        },
+        }
     }
 }
