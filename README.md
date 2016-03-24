@@ -5,7 +5,7 @@
   * [开发环境](kai_fa_huan_jing.md)
   * [React_boilerplate](react_boilerplate.md)
 * [React生态清单](./React_List.md)
-* React Lfie Cycle
+* [React Lfie Cycle](React_Life_Cyle.md)
 * [React UI Frame](./reactuiframe.md)
 * React Animation
 * React Router
